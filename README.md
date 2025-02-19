@@ -44,8 +44,8 @@ The app is hosted on Google play store
 ## Developers✨
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/shags8"><img alt="" src="https://avatars.githubusercontent.com/shags8" width="100px;"><br><sub><b>Shagun </b></sub></a></td>
     <td align="center"><a href="https://github.com/Agrawal-Ayush-009"><img alt="" src="https://avatars.githubusercontent.com/Agrawal-Ayush-009" width="100px;"><br><sub><b>Ayush </b></sub></a></td>
+    <td align="center"><a href="https://github.com/shags8"><img alt="" src="https://avatars.githubusercontent.com/shags8" width="100px;"><br><sub><b>Shagun </b></sub></a></td>
     <td align="center"><a href="https://github.com/phoenix-kanak"><img alt="" src="https://avatars.githubusercontent.com/phoenix-kanak" width="100px;"><br><sub><b>Kanak </b></sub></a></td>
    
   </tr>
